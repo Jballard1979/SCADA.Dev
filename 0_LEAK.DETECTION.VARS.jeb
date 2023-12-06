@@ -1,0 +1,19 @@
+Pressure	psig
+Volume Flow	bbl/hr
+Temperature	ºF
+Length	miles
+Elevation	ft
+Diameter	in
+Wall Thickness	in
+Volume	bbl
+Head	ft
+Specific Gravity	API
+Viscosity	centipoise
+Specific Heat (SPHT)	BTU/lb/F
+DRAPPM	ppm
+DRAFLOW	GPH
+Thermal Conductivity (GNDC)	BTU/ft/hr/F
+Velocity		ft/s
+Valve State	Open: 1, Close: 2, Travel: 3, Error: 4
+Pump Status	Running: 1 Stop: 2 Starting: 3 Error: 4
+Scraper	Integer incremental value
